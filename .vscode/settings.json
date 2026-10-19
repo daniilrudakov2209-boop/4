@@ -1,0 +1,10 @@
+{
+    "dotnet.automaticallySyncWithActiveItem": true,
+    "python-envs.pythonProjects": [
+        {
+            "path": "python/строкадз.py",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}
